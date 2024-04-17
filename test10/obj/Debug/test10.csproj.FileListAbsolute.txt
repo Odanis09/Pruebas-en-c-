@@ -1,0 +1,17 @@
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\test10.exe.config
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\test10.exe
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\test10.pdb
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\Newtonsoft.Json.dll
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\WebDriver.dll
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\WebDriver.Support.dll
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\Newtonsoft.Json.xml
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\WebDriver.xml
+C:\Users\odani\source\repos\testselenium\test10\bin\Debug\WebDriver.Support.xml
+C:\Users\odani\source\repos\testselenium\test10\obj\Debug\test10.csproj.AssemblyReference.cache
+C:\Users\odani\source\repos\testselenium\test10\obj\Debug\test10.csproj.CoreCompileInputs.cache
+C:\Users\odani\source\repos\testselenium\test10\obj\Debug\test10.csproj.Up2Date
+C:\Users\odani\source\repos\testselenium\test10\obj\Debug\test10.exe
+C:\Users\odani\source\repos\testselenium\test10\obj\Debug\test10.pdb
